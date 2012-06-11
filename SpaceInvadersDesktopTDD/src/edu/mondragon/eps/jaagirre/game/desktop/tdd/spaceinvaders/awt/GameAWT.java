@@ -11,6 +11,7 @@ import edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.GameBoard;
 
 
 //Sim 1. cambio
+//Sim 2. cambio
 public class GameAWT extends Game {
 
 	private JFrame window;
