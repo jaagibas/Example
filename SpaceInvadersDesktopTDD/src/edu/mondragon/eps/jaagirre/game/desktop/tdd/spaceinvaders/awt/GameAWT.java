@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 import edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.Game;
 import edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.GameBoard;
 
-
+//sim 3 cambio
 
 public class GameAWT extends Game {
 
