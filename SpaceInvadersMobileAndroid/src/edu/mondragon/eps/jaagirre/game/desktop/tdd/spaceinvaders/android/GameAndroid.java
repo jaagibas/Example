@@ -3,6 +3,8 @@ package edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.android;
 import edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.Game;
 import edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.GameBoard;
 
+
+//cambio 6
 public class GameAndroid extends Game {
 
 	public GameAndroid(int height, int width, GameBoard board) {
