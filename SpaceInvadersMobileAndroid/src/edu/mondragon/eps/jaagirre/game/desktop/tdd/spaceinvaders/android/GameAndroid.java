@@ -5,6 +5,7 @@ import edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.GameBoard;
 
 
 //8
+//9
 public class GameAndroid extends Game {
 
 	public GameAndroid(int height, int width, GameBoard board) {
