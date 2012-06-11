@@ -10,6 +10,7 @@ import edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.Game;
 import edu.mondragon.eps.jaagirre.game.desktop.tdd.spaceinvaders.GameBoard;
 
 //sim 3 cambio
+//sim 4 cambio
 
 public class GameAWT extends Game {
 
